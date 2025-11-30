@@ -1,6 +1,6 @@
 # Parking Management System 
 
-## 📌 Project Overview
+##  Project Overview
 This project is a Parking Management System developed entirely in **8086 Assembly language**.  
 The main goal is to simulate a real parking lot environment using low-level programming concepts, where every operation is manually controlled through registers, memory, and DOS interrupts.
 
@@ -9,7 +9,7 @@ It is designed to be simple, fast, and educational — especially for students l
 
 ---
 
-## 🚗 System Purpose
+##  System Purpose
 The parking system emulates the core functions of a real parking area:
 
 - Managing different types of vehicles  
@@ -22,7 +22,7 @@ The main idea is to teach how logic, conditions, counters, and data flow are imp
 
 ---
 
-## 🧠 Why Assembly Language?
+##  Why Assembly Language?
 Assembly is one of the closest languages to the hardware level.  
 This project demonstrates:
 
@@ -92,7 +92,7 @@ This returns the system to its initial empty state, useful for testing or starti
 
 ---
 
-## 🖥️ User Interface & Experience
+##  User Interface & Experience
 The project uses a simple **text-based interface** that works in any DOS environment.  
 The menu is designed for:
 
@@ -111,7 +111,7 @@ Despite being low-level, the UI is intuitive and efficient.
 
 ---
 
-## 🧩 Technical Concepts Demonstrated
+##  Technical Concepts Demonstrated
 This project helps practice and demonstrate:
 
 - Data storage using memory variables  
@@ -125,7 +125,7 @@ It reflects real-world logic implemented with low-level instructions.
 
 ---
 
-## 🎯 Educational Goals
+##  Educational Goals
 By building and studying this project, the learner gains experience in:
 
 - Designing full systems in Assembly  
@@ -143,7 +143,7 @@ Perfect for courses in:
 
 ---
 
-## 📂 Project Contents
+##  Project Contents
 The repository includes:
 
 - Full documentation of the system  
